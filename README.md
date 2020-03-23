@@ -1,3 +1,3 @@
 # SimpleTicTacToe
-Very simple Tic-Tac-Toe to practise java foundamentals from hyperskill.org
+Very simple Tic-Tac-Toe to practise java foundamentals from hyperskill.org \n
 Only one round player X always starts.
